@@ -4,9 +4,9 @@
 
 ### Transforming Business Operations with Intelligent Automation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://linkedin.com/in/aina-asim-659b67369)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)]([your-portfolio-url](https://aina-asim.vercel.app/))
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ainaasim15@gmail.com)
 
 </div>
 
@@ -242,9 +242,9 @@ const myValue = {
 
 I build **reliable AI automation systems** that run in production — not experiments.
 
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-Contact-EA4335?style=for-the-badge)](mailto:your-email)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Work-4CAF50?style=for-the-badge)](your-portfolio-url)
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-Contact-EA4335?style=for-the-badge)](mailto:ainaasim15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)]([your-linkedin-url](http://linkedin.com/in/aina-asim-659b67369))
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Work-4CAF50?style=for-the-badge)]([your-portfolio-url](https://system-shipwright.lovable.app/))
 
 📍 **Location:** Punjab, Pakistan  
 💼 **Availability:** Remote (Full-time / Contract / Freelance)

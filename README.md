@@ -5,7 +5,7 @@
 ### Transforming Business Operations with Intelligent Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://linkedin.com/in/aina-asim-659b67369)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)]([your-portfolio-url](https://aina-asim.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)]([https://aina-asim.vercel.app/])
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ainaasim15@gmail.com)
 
 </div>
@@ -243,7 +243,7 @@ const myValue = {
 I build **reliable AI automation systems** that run in production — not experiments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://linkedin.com/in/aina-asim-659b67369)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)]([your-portfolio-url](https://aina-asim.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)]([https://aina-asim.vercel.app/])
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ainaasim15@gmail.com)
 
 📍 **Location:** Punjab, Pakistan  
